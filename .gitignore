@@ -1,0 +1,5 @@
+*.rbxl
+*.rbxl.lock
+/Packages
+/DevPackages
+/wally.lock

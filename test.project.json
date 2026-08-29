@@ -1,0 +1,11 @@
+{
+  "name": "puppet-test",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Puppet": { "$path": "src" },
+      "Tests": { "$path": "test" }
+    }
+  }
+}

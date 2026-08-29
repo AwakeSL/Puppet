@@ -1,0 +1,8 @@
+[package]
+name = "awakesl/puppet"
+description = "Animation. Clips, the bake, marker times, constraint rigs and blending."
+version = "0.1.0"
+license = "MIT"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+include = ["src", "src/**", "default.project.json", "wally.toml", "README.md", "LICENSE"]
