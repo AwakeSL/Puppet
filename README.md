@@ -23,7 +23,9 @@ Every item below cost real time to learn and none of it is discoverable from the
 
 Which clips exist, what the markers mean, and when to play what.
 
-## Built standalone
+## Development
 
-Written against its own harness and adopted second. Moving a game's code into a package
-carries that game's assumptions with it, so nothing here was lifted from one.
+```
+lune run scripts/headless      # the suite
+selene src test scripts        # lint
+```
